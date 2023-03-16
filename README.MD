@@ -20,21 +20,31 @@
 ## Screenshots
 
 > The frontend
+![image](https://user-images.githubusercontent.com/40369168/225690011-d0e85d45-0dbf-41f9-ae04-af547a3d9083.png)
 
 
 > Adding the to-do
+![image](https://user-images.githubusercontent.com/40369168/225690173-7688fb0f-5346-42cb-89f4-fe909647eb29.png)
 
 
 > Done tasks
+![image](https://user-images.githubusercontent.com/40369168/225690348-5fe35734-bf73-4483-a5ed-a57308046131.png)
 
 
 > Deleting the to-do
+![image](https://user-images.githubusercontent.com/40369168/225690512-65d0cd45-d0c3-40c0-b80a-b4915163a5a5.png)
 
 
 > About page
+![image](https://user-images.githubusercontent.com/40369168/225690594-cc8b87d3-39eb-4b4d-a796-147acfac767c.png)
 
 
 > The Author page
+![image](https://user-images.githubusercontent.com/40369168/225690650-701e815f-08e2-40e6-92ed-099975097040.png)
+
+
+## Working
+
 
 
 
