@@ -46,6 +46,7 @@
 ## Working
 
 ![angularProj](https://user-images.githubusercontent.com/40369168/225698175-f2bd495d-d51d-4c12-ab38-06d37a933834.gif)
+N.B.- Converted mp4 to gif using [this](https://www.onlineconverter.com/) website and then compressed it using [this](https://www.iloveimg.com/compress-image/compress-gif) website.  
 
 
 ## Resources
