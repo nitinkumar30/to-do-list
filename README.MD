@@ -14,7 +14,7 @@
 
 ## How to run
 
-> You can refer the [HOW-TO-RUN.MD](HOW-TO-RUN.MD) file for better understanding.  
+> You can refer the [HOW-TO-RUN.MD](https://github.com/nitinkumar30/to-do-list/blob/main/HOW-TO-RUN.md) file for better understanding.  
 
 
 ## Screenshots
