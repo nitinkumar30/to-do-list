@@ -45,7 +45,7 @@
 
 ## Working
 
-
+![angularProj](https://user-images.githubusercontent.com/40369168/225694437-2c9b8bf7-3544-4544-b4d1-4c71b98b0357.gif)
 
 
 ## Resources
